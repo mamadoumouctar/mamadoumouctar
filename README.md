@@ -8,7 +8,7 @@ I have worked on a variety of projects for clients around the world, ranging fro
 
 
 <p align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=mamadoumouctar&margin-w=15&column=4&title=Followers,Stars,Repositories,Commits" alt="mamadoumouctar" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=mamadoumouctar&show_icons=true&theme=radical" alt="mamadoumouctar" />
 </p>
 
 
